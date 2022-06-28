@@ -50,29 +50,29 @@ I am good at creating smart contracts and has extensive experience in developing
     </tr>
 </table>
 
-- Defi
+- Defi 
 <table>
     <thead align="center">
         <tr>
-            <td>Pocoland</td>
-            <td>Nafter</td>
-            <td>IDOL</td>  
+            <td>MEME KONG</td>
+            <td>Tazor</td>
+            <td>LOCKER Bridge</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://pocoland.com/staking">
-                <img src="./images/staking.png" width="200">
+            <a href="#">
+                <img src="./images/mkong.png" width="200">
             </a>
         </td>          
         <td>
-            <a href="https://staking.nafter.io">
-                <img src="./images/staking-nafter.png" width="200">
+            <a href="#">
+                <img src="./images/tazor.png" width="200">
             </a>
         </td>   
         <td>
-            <a href="https://farms.idol.land/">
-                <img src="./images/staking-idol.png" width="200">
+            <a href="#">
+                <img src="./images/locker.png" width="200">
             </a>
         </td> 
     </tr>  
@@ -82,25 +82,25 @@ I am good at creating smart contracts and has extensive experience in developing
 <table>
     <thead align="center">
         <tr>
-            <td>Cosmic Paws</td>
-            <td>CryptoPigs</td>           
-            <td>FunkiFoxes</td>
+            <td>Croarmy</td>
+            <td>Mad Goblin</td>
+            <td>NFTits</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://cosmicpaws.io/">
-                <img src="./images/minting-dog.png" width="200">
+            <a href="#">
+                <img src="./images/croarmy.png" width="200">
             </a>
         </td>
         <td>
-            <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+            <a href="#">
+                <img src="./images/goblin.png" width="200">
             </a>
         </td>           
         <td>
-            <a href="https://funkifoxes.com/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+            <a href="#">
+                <img src="./images/nftit.png" width="200">
             </a>
         </td>             
     </tr>
