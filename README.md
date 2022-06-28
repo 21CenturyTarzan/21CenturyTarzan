@@ -50,7 +50,7 @@ I am good at creating smart contracts and has extensive experience in developing
     </tr>
 </table>
 
-- Defi 
+- Defi & DAO & BRIDGE
 <table>
     <thead align="center">
         <tr>
