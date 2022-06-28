@@ -5,21 +5,106 @@
 I am a professional blockchain and full stack developer with 4 years of experience in developing blockchain applications.
 I am good at creating smart contracts and has extensive experience in developing Presale, DeFi, DAO, DEX and Bridge projects in ETH, BSC, Polygon & Solana as well as developing NFT minting | staking platforms.
 
-My strength goes with 
 
-🏆 Here are summary of my skillset.
+🏆 Here is summary of my skillset.
 
 
 💠  Total Professional Experience - 8 years
- - Blockchain - 4+ years
- - Node - 8+ years
- - React - 5+ years
- - Full Stack - 5+ years
- - Spring - 2+ years
- - Unity - 4 years
- - android development - 8 years
- - C/C++/C# - 8+ years
+ - Blockchain 		4+ years
+ - Node 			8+ years
+ - React			5+ years
+ - Full Stack 		5+ years
+ - Spring 			5+ years
+ - Unity 			4 years
+ - android 			8 years
+ - C/C++/C#  		8+ years
  - Others
+
+### Portfolios
+
+- Presale
+<table>
+    <thead align="center">
+        <tr>
+            <td>Crinet</td>
+            <td>ASTRO</td>
+            <td>MITO</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="#">
+                <img src="./images/crinet.png" width="200">
+            </a>
+        </td>        
+        <td>
+            <a href="#">
+                <img src="./images/astro_presale.png" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="#">
+                <img src="./images/mito_presale.png" width="200">
+            </a>
+        </td> 
+    </tr>
+</table>
+
+- Defi
+<table>
+    <thead align="center">
+        <tr>
+            <td>Pocoland</td>
+            <td>Nafter</td>
+            <td>IDOL</td>  
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://pocoland.com/staking">
+                <img src="./images/staking.png" width="200">
+            </a>
+        </td>          
+        <td>
+            <a href="https://staking.nafter.io">
+                <img src="./images/staking-nafter.png" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="https://farms.idol.land/">
+                <img src="./images/staking-idol.png" width="200">
+            </a>
+        </td> 
+    </tr>  
+</table>
+
+- NFT Mint Dapps
+<table>
+    <thead align="center">
+        <tr>
+            <td>Cosmic Paws</td>
+            <td>CryptoPigs</td>           
+            <td>FunkiFoxes</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://cosmicpaws.io/">
+                <img src="./images/minting-dog.png" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://cryptopigs.one/#/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+            </a>
+        </td>           
+        <td>
+            <a href="https://funkifoxes.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+            </a>
+        </td>             
+    </tr>
+</table>
 
 > Programming languages.
 
