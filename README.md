@@ -10,8 +10,8 @@ I am good at creating smart contracts and has extensive experience in developing
 
 
 💠  Total Professional Experience - 8 years
- - Blockchain 		4+ years
- - Node 			8+ years
+ - Blockchain 		3+ years
+ - Node 			6+ years
  - React			5+ years
  - Full Stack 		5+ years
  - Spring 			5+ years
